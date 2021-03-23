@@ -1,0 +1,4 @@
+# Mongo C library must be installed with 
+apt install libmongoc-1.0-0
+apt install libmongoc-dev
+
